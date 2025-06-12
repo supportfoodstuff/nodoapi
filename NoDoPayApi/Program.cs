@@ -182,7 +182,7 @@ builder.Services.AddSwaggerGen(c =>
 var app = builder.Build();
 
 // Initialize database with SQL file on Railway (production only)
-// Docker Compose handles initialization automatically via init.sql
+// Only run for Railway deployments
 if (app.Environment.IsProduction() && Environment.GetEnvironmentVariable("MYSQL_URL") != null)
 {
     try
@@ -240,7 +240,7 @@ app.MapGet("/db-health", async (AppDbContext dbContext) =>
 // Run the application
 app.Run();
 
-// Simplified database initialization method
+// Simplified database initialization method - FIXED for Railway
 static async Task InitializeDatabaseAsync(AppDbContext dbContext, ILogger logger)
 {
     try
@@ -249,8 +249,8 @@ static async Task InitializeDatabaseAsync(AppDbContext dbContext, ILogger logger
         await dbContext.Database.CanConnectAsync();
         logger.LogInformation("Database connection successful");
 
-        // For Railway deployment only (Docker Compose handles init automatically)
-        logger.LogInformation("Railway deployment detected - checking for manual initialization");
+        // Railway deployment - provide instructions for manual initialization
+        logger.LogInformation("Railway deployment detected - manual database initialization required");
         
         // Look for SQL file for reference
         var sqlFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Database", "init.sql");
@@ -262,9 +262,18 @@ static async Task InitializeDatabaseAsync(AppDbContext dbContext, ILogger logger
         }
 
         logger.LogInformation("SQL file found for Railway manual initialization");
-        logger.LogInformation("1. Go to Railway dashboard → MySQL → Connect");
-        logger.LogInformation("2. Copy and paste the SQL file content");
-        logger.LogInformation("3. Execute the statements");
+        logger.LogInformation("To initialize database:");
+        logger.LogInformation("1. Go to Railway dashboard → MySQL service → Connect");
+        logger.LogInformation("2. Copy and paste the SQL file content from your repository");
+        logger.LogInformation("3. Execute the statements to create tables and insert data");
+        
+        // Read file content for logging stats
+        var sqlContent = await File.ReadAllTextAsync(sqlFilePath);
+        var statements = sqlContent.Split(new[] { ';' }, StringSplitOptions.RemoveEmptyEntries);
+        var statementCount = statements.Where(s => !string.IsNullOrWhiteSpace(s) && !s.Trim().StartsWith("--")).Count();
+        
+        logger.LogInformation($"SQL file contains {statementCount} executable statements");
+        logger.LogInformation("Database initialization guidance logged - manual execution required");
         
     }
     catch (Exception ex)
