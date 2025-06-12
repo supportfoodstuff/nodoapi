@@ -53,9 +53,10 @@ namespace InfrastructureLayer
 
         private static string GetConnectionString(IConfiguration configuration)
         {
-            // Railway provides MYSQL_URL environment variable
-            var mysqlUrl = Environment.GetEnvironmentVariable("MYSQL_URL");
+            // Priority order: Railway → Docker Compose → Environment Variable → Configuration
             
+            // 1. Railway provides MYSQL_URL environment variable
+            var mysqlUrl = Environment.GetEnvironmentVariable("MYSQL_URL");
             if (!string.IsNullOrEmpty(mysqlUrl))
             {
                 // Parse Railway's MYSQL_URL: mysql://user:password@host:port/database
@@ -70,8 +71,23 @@ namespace InfrastructureLayer
                 return $"Server={host};Port={port};Database={database};Uid={username};Pwd={password};";
             }
             
-            // Fallback to local development connection string
-            return configuration.GetConnectionString("DefaultConnection") ?? "";
+            // 2. Check for Docker Compose environment (when ConnectionStrings__DefaultConnection is set)
+            var dockerConnectionString = configuration.GetConnectionString("DefaultConnection");
+            if (!string.IsNullOrEmpty(dockerConnectionString) && dockerConnectionString.Contains("mysql"))
+            {
+                // This is likely Docker Compose with service name "mysql"
+                return dockerConnectionString;
+            }
+            
+            // 3. Check for direct connection string environment variable
+            var envConnectionString = Environment.GetEnvironmentVariable("CONNECTION_STRING");
+            if (!string.IsNullOrEmpty(envConnectionString))
+            {
+                return envConnectionString;
+            }
+            
+            // 4. Fallback to appsettings.json (your site4now.net connection or local dev)
+            return dockerConnectionString ?? "";
         }
     }
 }

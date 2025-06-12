@@ -101,7 +101,6 @@
 // // Run the application
 // app.Run();
 
-
 using Microsoft.OpenApi.Models;
 using CoreLayer.Interfaces;
 using InfrastructureLayer;
@@ -183,7 +182,8 @@ builder.Services.AddSwaggerGen(c =>
 var app = builder.Build();
 
 // Initialize database with SQL file on Railway (production only)
-if (app.Environment.IsProduction())
+// Docker Compose handles initialization automatically via init.sql
+if (app.Environment.IsProduction() && Environment.GetEnvironmentVariable("MYSQL_URL") != null)
 {
     try
     {
@@ -249,44 +249,22 @@ static async Task InitializeDatabaseAsync(AppDbContext dbContext, ILogger logger
         await dbContext.Database.CanConnectAsync();
         logger.LogInformation("Database connection successful");
 
-        // Check if database has any tables (indicating it's been initialized)
-        var hasAnyTables = await dbContext.Database.ExecuteScalarAsync<int>(
-            "SELECT COUNT(*) FROM information_schema.tables WHERE table_schema = DATABASE()") > 0;
-
-        if (hasAnyTables)
-        {
-            logger.LogInformation("Database already has tables, skipping initialization");
-            return;
-        }
-
-        // Look for SQL file
+        // For Railway deployment only (Docker Compose handles init automatically)
+        logger.LogInformation("Railway deployment detected - checking for manual initialization");
+        
+        // Look for SQL file for reference
         var sqlFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Database", "init.sql");
         
         if (!File.Exists(sqlFilePath))
         {
-            logger.LogInformation($"SQL initialization file not found at: {sqlFilePath}");
-            logger.LogInformation("To initialize database manually:");
-            logger.LogInformation("1. Go to Railway dashboard");
-            logger.LogInformation("2. Open MySQL database console");
-            logger.LogInformation("3. Run your SQL initialization script");
+            logger.LogInformation("SQL initialization file not found - database should be pre-initialized");
             return;
         }
 
-        logger.LogInformation("Found SQL initialization file");
-        logger.LogInformation("Reading SQL file for manual execution...");
-        
-        var sqlContent = await File.ReadAllTextAsync(sqlFilePath);
-        var statementCount = sqlContent.Split(';', StringSplitOptions.RemoveEmptyEntries).Length;
-        
-        logger.LogInformation($"SQL file contains {statementCount} statements");
-        logger.LogInformation("Manual execution required:");
+        logger.LogInformation("SQL file found for Railway manual initialization");
         logger.LogInformation("1. Go to Railway dashboard → MySQL → Connect");
         logger.LogInformation("2. Copy and paste the SQL file content");
         logger.LogInformation("3. Execute the statements");
-        
-        // For automatic execution, you could use:
-        // await dbContext.Database.ExecuteSqlRawAsync(sqlContent);
-        // But this requires careful SQL statement parsing
         
     }
     catch (Exception ex)
