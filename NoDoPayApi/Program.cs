@@ -181,25 +181,7 @@ builder.Services.AddSwaggerGen(c =>
 // Build the app
 var app = builder.Build();
 
-// Initialize database with SQL file on Railway (production only)
-// Only run for Railway deployments
-if (app.Environment.IsProduction() && Environment.GetEnvironmentVariable("MYSQL_URL") != null)
-{
-    try
-    {
-        using var scope = app.Services.CreateScope();
-        var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-        await InitializeDatabaseAsync(dbContext, app.Logger);
-        app.Logger.LogInformation("Database initialization completed");
-    }
-    catch (Exception ex)
-    {
-        app.Logger.LogError(ex, "Database initialization failed, but continuing startup");
-    }
-}
-
 // Enable Swagger in both development and production for Railway
-// Railway provides secure HTTPS endpoints, so it's safe
 app.UseSwagger();
 app.UseSwaggerUI(c =>
 {
@@ -239,46 +221,3 @@ app.MapGet("/db-health", async (AppDbContext dbContext) =>
 
 // Run the application
 app.Run();
-
-// Simplified database initialization method - FIXED for Railway
-static async Task InitializeDatabaseAsync(AppDbContext dbContext, ILogger logger)
-{
-    try
-    {
-        // Check if database can be connected to
-        await dbContext.Database.CanConnectAsync();
-        logger.LogInformation("Database connection successful");
-
-        // Railway deployment - provide instructions for manual initialization
-        logger.LogInformation("Railway deployment detected - manual database initialization required");
-        
-        // Look for SQL file for reference
-        var sqlFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Database", "init.sql");
-        
-        if (!File.Exists(sqlFilePath))
-        {
-            logger.LogInformation("SQL initialization file not found - database should be pre-initialized");
-            return;
-        }
-
-        logger.LogInformation("SQL file found for Railway manual initialization");
-        logger.LogInformation("To initialize database:");
-        logger.LogInformation("1. Go to Railway dashboard → MySQL service → Connect");
-        logger.LogInformation("2. Copy and paste the SQL file content from your repository");
-        logger.LogInformation("3. Execute the statements to create tables and insert data");
-        
-        // Read file content for logging stats
-        var sqlContent = await File.ReadAllTextAsync(sqlFilePath);
-        var statements = sqlContent.Split(new[] { ';' }, StringSplitOptions.RemoveEmptyEntries);
-        var statementCount = statements.Where(s => !string.IsNullOrWhiteSpace(s) && !s.Trim().StartsWith("--")).Count();
-        
-        logger.LogInformation($"SQL file contains {statementCount} executable statements");
-        logger.LogInformation("Database initialization guidance logged - manual execution required");
-        
-    }
-    catch (Exception ex)
-    {
-        logger.LogError(ex, "Error during database initialization check");
-        throw;
-    }
-}
