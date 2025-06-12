@@ -33,4 +33,8 @@ RUN dotnet publish "NoDoPayApi/NoDoPayApi.csproj" -c Release -o /app/publish
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
+
+# Copy SQL initialization file
+COPY Database/ ./Database/
+
 ENTRYPOINT ["dotnet", "NoDoPayApi.dll"]
