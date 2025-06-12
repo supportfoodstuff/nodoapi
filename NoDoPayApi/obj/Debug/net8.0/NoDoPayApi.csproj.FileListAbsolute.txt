@@ -1,0 +1,230 @@
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/appsettings.json
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/NoDoPayApi.staticwebassets.runtime.json
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/NoDoPayApi.staticwebassets.endpoints.json
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/NoDoPayApi.exe
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/NoDoPayApi.deps.json
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/NoDoPayApi.runtimeconfig.json
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/NoDoPayApi.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/NoDoPayApi.pdb
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Humanizer.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/MySqlConnector.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ApplicationLayer.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/CoreLayer.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/InfrastructureLayer.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ApplicationLayer.pdb
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/InfrastructureLayer.pdb
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/CoreLayer.pdb
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.csproj.AssemblyReference.cache
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.AssemblyInfoInputs.cache
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.AssemblyInfo.cs
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.csproj.CoreCompileInputs.cache
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/scopedcss/bundle/NoDoPayApi.styles.css
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/staticwebassets/msbuild.NoDoPayApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/staticwebassets/msbuild.NoDoPayApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/staticwebassets/msbuild.build.NoDoPayApi.props
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.NoDoPayApi.props
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.NoDoPayApi.props
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.csproj.Up2Date
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/refint/NoDoPayApi.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.pdb
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.genruntimeconfig.cache
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/ref/NoDoPayApi.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/appsettings.Development.json
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/appsettings.json
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/NoDoPayApi.staticwebassets.runtime.json
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/NoDoPayApi.staticwebassets.endpoints.json
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/NoDoPayApi
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/NoDoPayApi.deps.json
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/NoDoPayApi.runtimeconfig.json
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/NoDoPayApi.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/NoDoPayApi.pdb
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Humanizer.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/MySqlConnector.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/System.CodeDom.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ApplicationLayer.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/CoreLayer.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/InfrastructureLayer.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/ApplicationLayer.pdb
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/InfrastructureLayer.pdb
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/bin/Debug/net8.0/CoreLayer.pdb
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.csproj.AssemblyReference.cache
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.AssemblyInfoInputs.cache
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.AssemblyInfo.cs
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/scopedcss/bundle/NoDoPayApi.styles.css
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.csproj.Up2Date
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/refint/NoDoPayApi.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.pdb
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/NoDoPayApi.genruntimeconfig.cache
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/NoDoPayApi/obj/Debug/net8.0/ref/NoDoPayApi.dll

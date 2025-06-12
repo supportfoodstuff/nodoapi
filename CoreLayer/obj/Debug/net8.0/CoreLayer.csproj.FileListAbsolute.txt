@@ -1,0 +1,24 @@
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/CoreLayer/bin/Debug/net8.0/CoreLayer.deps.json
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/CoreLayer/bin/Debug/net8.0/CoreLayer.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/CoreLayer/bin/Debug/net8.0/CoreLayer.pdb
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/CoreLayer/obj/Debug/net8.0/CoreLayer.csproj.AssemblyReference.cache
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/CoreLayer/obj/Debug/net8.0/CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/CoreLayer/obj/Debug/net8.0/CoreLayer.AssemblyInfoInputs.cache
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/CoreLayer/obj/Debug/net8.0/CoreLayer.AssemblyInfo.cs
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/CoreLayer/obj/Debug/net8.0/CoreLayer.csproj.CoreCompileInputs.cache
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/CoreLayer/obj/Debug/net8.0/CoreLayer.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/CoreLayer/obj/Debug/net8.0/refint/CoreLayer.dll
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/CoreLayer/obj/Debug/net8.0/CoreLayer.pdb
+C:/Users/Jedi Labs/source/repos/NoDoPayApi/CoreLayer/obj/Debug/net8.0/ref/CoreLayer.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/CoreLayer/bin/Debug/net8.0/CoreLayer.deps.json
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/CoreLayer/bin/Debug/net8.0/CoreLayer.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/CoreLayer/bin/Debug/net8.0/CoreLayer.pdb
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/CoreLayer/obj/Debug/net8.0/CoreLayer.csproj.AssemblyReference.cache
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/CoreLayer/obj/Debug/net8.0/CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/CoreLayer/obj/Debug/net8.0/CoreLayer.AssemblyInfoInputs.cache
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/CoreLayer/obj/Debug/net8.0/CoreLayer.AssemblyInfo.cs
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/CoreLayer/obj/Debug/net8.0/CoreLayer.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/CoreLayer/obj/Debug/net8.0/CoreLayer.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/CoreLayer/obj/Debug/net8.0/refint/CoreLayer.dll
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/CoreLayer/obj/Debug/net8.0/CoreLayer.pdb
+/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/CoreLayer/obj/Debug/net8.0/ref/CoreLayer.dll

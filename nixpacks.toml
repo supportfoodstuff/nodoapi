@@ -1,0 +1,12 @@
+[providers]
+dotnet = "8.0"
+
+[variables]
+ASPNETCORE_ENVIRONMENT = "Production"
+ASPNETCORE_URLS = "http://0.0.0.0:$PORT"
+
+[build]
+cmd = "dotnet publish -c Release -o out"
+
+[start]
+cmd = "dotnet out/NoDoPayApi.dll"

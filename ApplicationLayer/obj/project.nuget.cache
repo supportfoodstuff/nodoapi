@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "iCzfuVJHTwg=",
+  "success": true,
+  "projectFilePath": "/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/ApplicationLayer/ApplicationLayer.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.1/microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.netcore.app.ref/8.0.17/microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.17/microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/mac/.local/share/NuGet/http-cache/670c1461c29885f9aa22c281d8b7da90845b38e4$ps:_api.nuget.org_v3_index.json/vuln_index.dat-new' is denied.",
+      "projectPath": "/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/ApplicationLayer/ApplicationLayer.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/mac/Desktop/untitled_folder_2/foodstuffstore/NoDoPayApi/ApplicationLayer/ApplicationLayer.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
